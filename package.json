@@ -1,0 +1,24 @@
+{
+  "name": "example_plywood_polaris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "./node_modules/.bin/tsx ./src/example.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "plywood": "^0.33.1",
+    "plywood-druid-requester": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "tsx": "^3.12.10",
+    "typescript": "^5.2.2"
+  }
+}
