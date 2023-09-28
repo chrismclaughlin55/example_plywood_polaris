@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
     "plywood": "^0.33.1",
     "plywood-druid-requester": "^2.7.0"
   },
