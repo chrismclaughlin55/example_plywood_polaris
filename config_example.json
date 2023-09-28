@@ -1,0 +1,5 @@
+{
+    "name": "example",
+    "api_key":"<API_KEY_FROM_POLARIS>",
+    "full_host_url": "<API_DOMAIN_FOR_PROJECT>"
+}
